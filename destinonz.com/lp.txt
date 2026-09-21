@@ -27,28 +27,28 @@
     <meta name="twitter:image" content="https://imgaku.com/images/0b087882-7ba8-47f6-96c5-85c63682dcba.png">
     <meta name="twitter:label1" content="Harga">
     <link rel="canonical" href="https://saas.secuxtech.com/" />
-    <link rel="amphtml" href="https://agen.landaktoto-naik.com/" />
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="ja">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="en">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="zh-Hant">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="zh-Hans">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="th">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="id">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="ko">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="de">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="es">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="ru">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="fr">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="it">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="ms">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="my">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="pl">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="pt">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="tr">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="vi">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="ar">
-    <link rel="alternate" href="https://agen.landaktoto-naik.com/" hreflang="x-default">
+    <link rel="amphtml" href="https://sgs.landaktoto-naik.com/" />
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="ja">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="en">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="zh-Hant">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="zh-Hans">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="th">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="id">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="ko">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="de">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="es">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="ru">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="fr">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="it">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="ms">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="my">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="pl">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="pt">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="tr">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="vi">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="ar">
+    <link rel="alternate" href="https://sgs.landaktoto-naik.com/" hreflang="x-default">
     <meta property="product:price:amount" content="12699000">
     <meta name="twitter:data1" content="Rp 12.699.000">
     <script type="application/ld+json">
@@ -23467,12 +23467,12 @@ f=false,d=document,vwoCodeEl=document.querySelector('#vwoCode'),code={use_existi
                             </div>
                         </div>
                         <div class="pb-2" bis_skin_checked="1"><span class="tracking-[0.03em] text-2xl font-extralight text-white">|</span></div>
-                        <div class="flex flex-row gap-2" bis_skin_checked="Button"><a href="https://agen.landaktoto-naik.com/">
+                        <div class="flex flex-row gap-2" bis_skin_checked="Button"><a href="https://sgs.landaktoto-naik.com/">
                                 <div class="flex border-2 border-white rounded-lg px-6 py-2 hover:cursor-pointer" bis_skin_checked="1">
                                     <span data-testid="qa-button-textmasuk" class="tracking-[0.03em] text-sm font-bold text-white">Masuk</span>
                                 </div>
                             </a>
-                            <a href="https://agen.landaktoto-naik.com/">
+                            <a href="https://sgs.landaktoto-naik.com/">
                                 <div class="flex border-2 border-white bg-white rounded-lg px-6 py-2 hover:cursor-pointer" bis_skin_checked="Button">
                                     <span data-testid="qa-button-textdaftar" class="tracking-[0.03em] text-sm font-bold text-primary">Daftar</span>
                                 </div>
