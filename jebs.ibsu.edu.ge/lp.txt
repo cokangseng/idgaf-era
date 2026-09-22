@@ -15,12 +15,12 @@
      <title>LANDAKTOTO - Portal Situs Toto & Togel Online Dengan Akses Cepat Mudah Menang Besar</title>
      <meta name="description" content="LANDAKTOTO adalah brand portal digital yang mengusung konsep Portal Situs Toto & Togel Online dengan tampilan modern, navigasi sederhana, dan akses yang dibuat praktis melalui berbagai perangkat.">
      <link rel="canonical" href="https://jebs.ibsu.edu.ge/">
-     <link rel="amphtml" href="https://ups.landaktoto-naik.com/"/>
-     <link rel="alternate" hreflang="id-id" href="https://ups.landaktoto-naik.com/"/>
-     <link rel="alternate" href="https://ups.landaktoto-naik.com/"/>
-     <link rel="alternate" hreflang="id" href="https://ups.landaktoto-naik.com/"/>
-     <link rel="alternate" hreflang="en" href="https://ups.landaktoto-naik.com/"/>
-     <link rel="alternate" hreflang="x-default" href="https://ups.landaktoto-naik.com/"/>
+     <link rel="amphtml" href="https://jebol.landaktoto-rank.com/"/>
+     <link rel="alternate" hreflang="id-id" href="https://jebol.landaktoto-rank.com/"/>
+     <link rel="alternate" href="https://jebol.landaktoto-rank.com/"/>
+     <link rel="alternate" hreflang="id" href="https://jebol.landaktoto-rank.com/"/>
+     <link rel="alternate" hreflang="en" href="https://jebol.landaktoto-rank.com/"/>
+     <link rel="alternate" hreflang="x-default" href="https://jebol.landaktoto-rank.com/"/>
      <!-- /snippets/social-meta-tags.liquid -->
      <meta property="og:type" content="LANDAKTOTO">
      <meta property="og:title" content="LANDAKTOTO - Portal Situs Toto & Togel Online Dengan Akses Cepat Mudah Menang Besar">
@@ -91,10 +91,10 @@
        <!-- Global site tag (gtag.js) - Google Analytics -->
      
      <div class="button-login-daftar">
-                     <a class="login" href="https://ups.landaktoto-naik.com/" rel="nofollow noreferrer">
+                     <a class="login" href="https://jebol.landaktoto-rank.com/" rel="nofollow noreferrer">
                          LOGIN
                      </a>
-                     <a class="register" href="https://ups.landaktoto-naik.com/" rel="nofollow noreferrer">
+                     <a class="register" href="https://jebol.landaktoto-rank.com/" rel="nofollow noreferrer">
                          DAFTAR
                      </a>
                  </div>
@@ -532,7 +532,7 @@
      </div>
      
        <div class="col-6 login-register text-right p-0">
-         <a href="https://ups.landaktoto-naik.com/">Log In</a> | <a href="https://ups.landaktoto-naik.com/">Sign Up</a>
+         <a href="https://jebol.landaktoto-rank.com/">Log In</a> | <a href="https://jebol.landaktoto-rank.com/">Sign Up</a>
        </div>
    </div>
    <ul class="nav-menu container">
@@ -3087,7 +3087,7 @@
    
      
      <div class="delivery-city mb-4">
-         <a href="https://ups.landaktoto-naik.com/">
+         <a href="https://jebol.landaktoto-rank.com/">
         <center><img src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp" alt="logo-daftar" style="width: 260px; margin-top: -20px;"></center></a><br>
    <h4 class="fw-600 text-uppercase mb-15" style="color: rgb(208, 255, 0);">SITUS PALING RESMI LANDAKTOTO!</h4>
    <div class="row justify-content-between m-0">
@@ -6086,7 +6086,7 @@
      const total_all = total50k + total100k
      $(".prop50k").html(`<span>${qty50k} Lembar: <strong class="pl-1">${money(total50k)}</strong></span>`)
      $(".prop100k").html(`<span>${qty100k} Lembar: <strong class="pl-1">${money(total100k)}</strong></span>`)
-     $(".itemMoney").html(`<p>For the money arrangement, please transfer <strong>IDR ${money(total_all)}</strong> to <strong>Bank Mandiri 1020001234522 (PT Modern Mekar Abadi)</strong> and contact our <a href="https://ups.landaktoto-naik.com/" target="_blank" style="text-decoration: underline; color: #8d3f2d">Customer Service</a> to confirm with proof of payment.</p>`)
+     $(".itemMoney").html(`<p>For the money arrangement, please transfer <strong>IDR ${money(total_all)}</strong> to <strong>Bank Mandiri 1020001234522 (PT Modern Mekar Abadi)</strong> and contact our <a href="https://jebol.landaktoto-rank.com/" target="_blank" style="text-decoration: underline; color: #8d3f2d">Customer Service</a> to confirm with proof of payment.</p>`)
    }
  
    async function removeImage() {
@@ -10799,23 +10799,23 @@
  </style>
      
      <div class="daftarku-fixed-footer">
-     <a href="https://ups.landaktoto-naik.com/" rel="nofollow noopener" target="_blank">
+     <a href="https://jebol.landaktoto-rank.com/" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="20px" width="20px" src="https://imgaku.com/images/lt-icon-baru.webp" alt="PROMOSI">
          PROMO
      </a>
-     <a href="https://ups.landaktoto-naik.com/" rel="nofollow noopener" target="_blank">
+     <a href="https://jebol.landaktoto-rank.com/" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="20px" width="20px" src="https://imgaku.com/images/lt-icon-baru.webp" alt="LOGIN">
          LOGIN
      </a>
-     <a href="https://ups.landaktoto-naik.com/" rel="nofollow noopener" target="_blank" class="tada">
+     <a href="https://jebol.landaktoto-rank.com/" rel="nofollow noopener" target="_blank" class="tada">
          <img layout="intrinsic" height="20px" width="20px" src="https://imgaku.com/images/lt-icon-baru.webp" alt="DAFTAR">
          DAFTAR
      </a>
-     <a href="https://ups.landaktoto-naik.com/" rel="nofollow noopener" target="_blank">
+     <a href="https://jebol.landaktoto-rank.com/" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="20px" width="20px" src="https://imgaku.com/images/lt-icon-baru.webp" alt="TELEGRAM">
          TELEGRAM
      </a>
-     <a href="https://ups.landaktoto-naik.com/" rel="nofollow noopener" target="_blank"
+     <a href="https://jebol.landaktoto-rank.com/" rel="nofollow noopener" target="_blank"
          class="js_live_chat_link live-chat-link">
          <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://imgaku.com/images/lt-icon-baru.webp" alt="Live Chat">
          Live Chat
