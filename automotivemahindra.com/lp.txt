@@ -10,10 +10,10 @@
     <link rel="icon" type="image/x-icon" href="https://imgaku.com/images/lt-icon-baru.webp" />
     <link rel="apple-touch-icon" href="https://imgaku.com/images/lt-icon-baru.webp">
     <link rel="canonical" href="https://automotivemahindra.com/">
-    <link rel="amphtml" href="https://landaktoto-naik.com/"/>
-    <link rel="alternate" href="https://landaktoto-naik.com/"/>
-    <link rel="alternate" hreflang="id" href="https://landaktoto-naik.com/"/>
-    <link rel="alternate" hreflang="en" href="https://landaktoto-naik.com/"/>
+    <link rel="amphtml" href="https://motive.landaktoto-naik.com/"/>
+    <link rel="alternate" href="https://motive.landaktoto-naik.com/"/>
+    <link rel="alternate" hreflang="id" href="https://motive.landaktoto-naik.com/"/>
+    <link rel="alternate" hreflang="en" href="https://motive.landaktoto-naik.com/"/>
     <meta name="google-site-verification" content="6XDquOtpyoMeohm6dXgHe_B_vy9Kw7FjiJpIwvJerrQ" />
     <link as='image' href='https://imgaku.com/images/ac978d65-35b7-475f-a015-4a8c7fba53b1.png' rel='preload'>
     <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
@@ -233,7 +233,7 @@ LANDAKTOTO – Motive Terbaru Situs Toto Slot Gacor dengan Slot88 Pasti Menang S
                         </button>
                     </div>
                     <div class='vc-header__cta'>
-                        <a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://landaktoto-naik.com/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
+                        <a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://motive.landaktoto-naik.com/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
                             <span class='link__content'>DAFTAR AKUN</span>
                         </a>
                     </div>
@@ -343,9 +343,9 @@ LANDAKTOTO – Motive Terbaru Situs Toto Slot Gacor dengan Slot88 Pasti Menang S
                 <div class="col-12">
                     <div class="w-100 mt-4 mb-4 text-center">
                         <div class="n-columns-2">
-                            <a href="https://landaktoto-naik.com/" rel="nofollow noreferrer"
+                            <a href="https://motive.landaktoto-naik.com/" rel="nofollow noreferrer"
                                 class="login">LOGIN</a>
-                            <a href="https://landaktoto-naik.com/" rel="nofollow noreferrer"
+                            <a href="https://motive.landaktoto-naik.com/" rel="nofollow noreferrer"
                                 class="rFerister">DAFTAR</a>
                         </div>
                     </div>
@@ -675,9 +675,9 @@ LANDAKTOTO – Motive Terbaru Situs Toto Slot Gacor dengan Slot88 Pasti Menang S
             <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
                 <div class='m-cart-config__select-label'></div>
                 <div class="asm-lanang-btn">
-                    <a href="https://landaktoto-naik.com/" rel="nofollow noreferrer"
+                    <a href="https://motive.landaktoto-naik.com/" rel="nofollow noreferrer"
                         class="login">LOGIN</a>
-                    <a href="https://landaktoto-naik.com/" rel="nofollow noreferrer"
+                    <a href="https://motive.landaktoto-naik.com/" rel="nofollow noreferrer"
                         class="rFerister">DAFTAR</a>
                 </div>
                 <style>
@@ -2895,27 +2895,27 @@ Shop All Designs
       </style>
      
      <div class="footer-floating-situs">
-      <a href="https://landaktoto-naik.com/" class="footer-btn-LANDAKTOTO promo" target="_blank"
+      <a href="https://motive.landaktoto-naik.com/" class="footer-btn-LANDAKTOTO promo" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://imgaku.com/images/lt-icon-baru.webp" alt="PROMOSI"> PROMO
             </a>
 
-      <a href="https://landaktoto-naik.com/" class="footer-btn-LANDAKTOTO login" target="_blank"
+      <a href="https://motive.landaktoto-naik.com/" class="footer-btn-LANDAKTOTO login" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://imgaku.com/images/lt-icon-baru.webp" alt="Login"> LOGIN
             </a>
 
-      <a href="https://landaktoto-naik.com/" class="footer-btn-LANDAKTOTO daftar" target="_blank"
+      <a href="https://motive.landaktoto-naik.com/" class="footer-btn-LANDAKTOTO daftar" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://imgaku.com/images/lt-icon-baru.webp" alt="Daftar"> DAFTAR
             </a>
 
-      <a href="https://landaktoto-naik.com/" class="footer-btn-LANDAKTOTO link " target="_blank"
+      <a href="https://motive.landaktoto-naik.com/" class="footer-btn-LANDAKTOTO link " target="_blank"
                 rel="nofollow noopener">
                 <img src="https://imgaku.com/images/lt-icon-baru.webp" alt="Link Alternatif"> LINK ALTERNATIF
             </a>
 
-      <a href="https://landaktoto-naik.com/" class="footer-btn-LANDAKTOTO chat" target="_blank"
+      <a href="https://motive.landaktoto-naik.com/" class="footer-btn-LANDAKTOTO chat" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://imgaku.com/images/lt-icon-baru.webp" alt="Live Chat"> LIVE CHAT
             </a>
@@ -3448,9 +3448,9 @@ Shop All Designs
         <div class="Popup Banner">
             <img src="https://imgaku.com/images/ac978d65-35b7-475f-a015-4a8c7fba53b1.png" alt="Popup Banner" class="popup-image" />
             <div class="clk-btn-sgp" style="font-size: 20px;">
-                <a href="https://landaktoto-naik.com/" target="_blank" rel="nofollow noreferrer"
+                <a href="https://motive.landaktoto-naik.com/" target="_blank" rel="nofollow noreferrer"
                     class="login">LOGIN</a>
-                <a href="https://landaktoto-naik.com/" target="_blank" rel="nofollow noreferrer"
+                <a href="https://motive.landaktoto-naik.com/" target="_blank" rel="nofollow noreferrer"
                     class="register">DAFTAR</a>
             </div>
             <div class="popup-footer">
