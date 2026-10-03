@@ -6652,7 +6652,7 @@ function myFunction() {
 									"bestRating": "5",
 									"worstRating": "1"
 								  },
-								  "reviewBody": ""Menurut saya, tampilan LANDAKTOTO terlihat menarik untuk sebuah platform digital. Susunan menu yang sederhana dan informasi yang tertata menjadi dua hal penting yang saya cari ketika mengunjungi website.""
+								  "reviewBody": "Menurut saya, tampilan LANDAKTOTO terlihat menarik untuk sebuah platform digital. Susunan menu yang sederhana dan informasi yang tertata menjadi dua hal penting yang saya cari ketika mengunjungi website."
 								},
 								{
 								  "@type": "Review",
@@ -6666,7 +6666,7 @@ function myFunction() {
 									"bestRating": "5",
 									"worstRating": "1"
 								  },
-								  "reviewBody": ""Saya menyukai website yang menyediakan panduan akses secara terperinci. Informasi login, keamanan akun, dan petunjuk penggunaan yang jelas membuat sebuah platform lebih mudah dipahami.""
+								  "reviewBody": "Saya menyukai website yang menyediakan panduan akses secara terperinci. Informasi login, keamanan akun, dan petunjuk penggunaan yang jelas membuat sebuah platform lebih mudah dipahami."
 								},
 								{
 								  "@type": "Review",
@@ -6680,7 +6680,7 @@ function myFunction() {
 									"bestRating": "5",
 									"worstRating": "1"
 								  },
-								  "reviewBody": ""Ketika mencari informasi SLOT88, saya lebih tertarik pada artikel yang menjelaskan fitur permainan, mekanisme RTP, serta berbagai risiko secara transparan daripada sekadar menjanjikan kemenangan.""
+								  "reviewBody": "Ketika mencari informasi SLOT88, saya lebih tertarik pada artikel yang menjelaskan fitur permainan, mekanisme RTP, serta berbagai risiko secara transparan daripada sekadar menjanjikan kemenangan."
 								},
 								{
 								  "@type": "Review",
@@ -6694,7 +6694,7 @@ function myFunction() {
 									"bestRating": "5",
 									"worstRating": "1"
 								  },
-								  "reviewBody": ""Bagi saya, kualitas sebuah platform terlihat dari navigasi yang praktis dan tampilan yang responsif. Informasi yang mudah ditemukan menjadi nilai tambah ketika menjelajahi sebuah website.""
+								  "reviewBody": "Bagi saya, kualitas sebuah platform terlihat dari navigasi yang praktis dan tampilan yang responsif. Informasi yang mudah ditemukan menjadi nilai tambah ketika menjelajahi sebuah website."
 								},
 								{
 								  "@type": "Review",
@@ -6708,7 +6708,7 @@ function myFunction() {
 									"bestRating": "5",
 									"worstRating": "1"
 								  },
-								  "reviewBody": ""Istilah slot gacor sering muncul ketika saya mencari informasi permainan online. Saya lebih menghargai platform yang menyajikan penjelasan objektif mengenai RTP dan tidak memberikan jaminan jackpot.""
+								  "reviewBody": "Istilah slot gacor sering muncul ketika saya mencari informasi permainan online. Saya lebih menghargai platform yang menyajikan penjelasan objektif mengenai RTP dan tidak memberikan jaminan jackpot."
 								}
 							  ]
 							}
