@@ -1,7 +1,7 @@
 
 
 <!DOCTYPE html>
-    <!--SEO RABANGROUP-->
+    <!--SEO ANEKUANTEAM-->
 <html lang="id">
     <head prefix="og: https://www.schulz-juweliere.de/ fb: https://www.schulz-juweliere.de/ product: https://www.schulz-juweliere.de/">
         <script data-breeze="1">
