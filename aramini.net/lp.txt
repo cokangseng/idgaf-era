@@ -6671,7 +6671,7 @@ function myFunction() {
 									"bestRating": "5",
 									"worstRating": "1"
 								  },
-								  "reviewBody": ""LANDAKTOTO punya tampilan yang menarik dan mudah dipahami. Informasi Aramini dan Slot88 juga tersusun rapi, jadi nyaman saat menjelajahi halaman.""
+								  "reviewBody": "LANDAKTOTO punya tampilan yang menarik dan mudah dipahami. Informasi Aramini dan Slot88 juga tersusun rapi, jadi nyaman saat menjelajahi halaman."
 								},
 								{
 								  "@type": "Review",
@@ -6685,7 +6685,7 @@ function myFunction() {
 									"bestRating": "5",
 									"worstRating": "1"
 								  },
-								  "reviewBody": ""Suka dengan konsep LANDAKTOTO yang menggabungkan pembahasan Slot Gacor Hari Ini dan Slot88 dalam satu tempat. Desainnya terlihat modern.""
+								  "reviewBody": "Suka dengan konsep LANDAKTOTO yang menggabungkan pembahasan Slot Gacor Hari Ini dan Slot88 dalam satu tempat. Desainnya terlihat modern."
 								},
 								{
 								  "@type": "Review",
@@ -6699,7 +6699,7 @@ function myFunction() {
 									"bestRating": "5",
 									"worstRating": "1"
 								  },
-								  "reviewBody": ""Menurut saya, LANDAKTOTO punya branding yang kuat. Navigasi yang sederhana membuat informasi permainan lebih mudah ditemukan.""
+								  "reviewBody": "Menurut saya, LANDAKTOTO punya branding yang kuat. Navigasi yang sederhana membuat informasi permainan lebih mudah ditemukan."
 								},
 								{
 								  "@type": "Review",
@@ -6713,7 +6713,7 @@ function myFunction() {
 									"bestRating": "5",
 									"worstRating": "1"
 								  },
-								  "reviewBody": ""Pembahasan Slot88 dan fitur jackpot di LANDAKTOTO cukup menarik. Informasinya mudah dibaca dan tidak membingungkan.""
+								  "reviewBody": "Pembahasan Slot88 dan fitur jackpot di LANDAKTOTO cukup menarik. Informasinya mudah dibaca dan tidak membingungkan."
 								},
 								{
 								  "@type": "Review",
@@ -6727,7 +6727,7 @@ function myFunction() {
 									"bestRating": "5",
 									"worstRating": "1"
 								  },
-								  "reviewBody": ""LANDAKTOTO cocok dijadikan referensi untuk mengenal istilah Aramini Slot Gacor, RTP, dan berbagai fitur permainan slot digital.""
+								  "reviewBody": "LANDAKTOTO cocok dijadikan referensi untuk mengenal istilah Aramini Slot Gacor, RTP, dan berbagai fitur permainan slot digital."
 								}
 							  ]
 							}
