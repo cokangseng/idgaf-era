@@ -33,7 +33,7 @@
 	<meta property="og:price:currency" content="SGD" />
 	<meta property="og:locale" content="id_ID" />
 	<meta name="twitter:card" content="summary_large_image" />
-    <meta name="google-site-verification" content="RWBRaIUkVvHqE6MLxP2jKCf7AzoD2gf2bILfDfi0BJk" />
+    <meta name="google-site-verification" content="zS2OoA5H2-6oAW-rQUvg61yLhNbYvfUgdtBRJpbhoNc" />
 	<meta name="twitter:title" content="LANDAKTOTO – Login & Daftar Situs Toto Macau dan Togel Online 4D 2026" />
 	<meta name="twitter:description" content="LANDAKTOTO menghadirkan informasi login dan daftar situs Toto Macau serta togel online 4D tahun 2026 dengan panduan akses, navigasi praktis, dan pembaruan informasi terbaru." />
 	<script type="04b4cc26f60c60f8e9a8ab94-text/javascript">
